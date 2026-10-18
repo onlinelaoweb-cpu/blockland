@@ -1,0 +1,20 @@
+{
+  "id": "vardaans-blockland",
+  "name": "Vardaan's Blockland",
+  "short_name": "Blockland",
+  "description": "A friendly block-building adventure game for kids, with a Hindi coach.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#87c6ee",
+  "theme_color": "#87c6ee",
+  "lang": "hi",
+  "categories": ["games", "kids", "education"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
